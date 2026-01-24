@@ -42,7 +42,7 @@ upstream my_app {
 # Kubernetes Flow (This Is the Key)
 
 ```
-NGINX → Service → Pods
+NGINX → Service → Pods 
 ```
 
 * **Pods** = your containers
